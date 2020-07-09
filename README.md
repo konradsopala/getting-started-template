@@ -14,12 +14,6 @@
 <img src="https://img.shields.io/badge/Easier-Contributions-brightgreen"/>
 <img src="https://img.shields.io/badge/Open-Source-brightgreen"/>
 </p>
-<div align="center">
-<br>
-<a href="<INSERT_YOUR_OSS_ORG_URL>">
-<img src="/Assets/CallToActionBanner.png"/>
-</a>
-</div>
 
 ## Welcome to our intro space 👋
 
@@ -69,3 +63,10 @@ As everyone is time-constraint and we do sometimes have limited bandwidth we wan
 <!-- TODO: Make sure to adjust link to the LICENSE -->
 
 This repo is [MIT licensed.](https://github.com/konradsopala/oss-org-getting-started/blob/master/LICENSE)
+
+<div align="center">
+<br>
+<a href="<INSERT_YOUR_OSS_ORG_URL>">
+<img src="/Assets/CallToActionBanner.png"/>
+</a>
+</div>
