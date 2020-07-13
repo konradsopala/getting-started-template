@@ -18,7 +18,10 @@ This document includes following sections:
 
 **Our Values**
 
-![](/Assets/ValluesBanner.png)
+* <INSERT_VALUE_NAME>: <INSERT_VALUE_DESCRIPTION>
+* <INSERT_VALUE_NAME>: <INSERT_VALUE_DESCRIPTION>
+* <INSERT_VALUE_NAME>: <INSERT_VALUE_DESCRIPTION>
+* - || - 
 
 You can read about [our company values in more detail here.](<INSERT_URL_OF_YOUR_COMPANY>)
 
