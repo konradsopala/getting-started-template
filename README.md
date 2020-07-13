@@ -1,4 +1,5 @@
-<!-- TODO: Make sure to review and adjust this document carefully + delete those TODO comments -->
+<!-- TODO: Make sure to review and adjust this document carefully -->
+<!-- Change links, replace <INSERT> tags with real values, replace images -->
 
 <div align="center">
 <br>
@@ -33,8 +34,6 @@ As we're growing our OSS community we'd like you to gradually take more and more
 
 Before making your first contribution to any of our repos, we highly recommend checking following files:
 
-<!-- TODO: Make sure to adjust links to those documents -->
-
 * [Code of Conduct](https://github.com/konradsopala/oss-org-getting-started/blob/master/CODE_OF_CONDUCT.md)
 * [Contributing Guidelines](https://github.com/konradsopala/oss-org-getting-started/blob/master/CONTRIBUTION.md)
 * [License](https://github.com/konradsopala/oss-org-getting-started/blob/master/LICENSE.md)
@@ -43,11 +42,9 @@ that apply to each of our repos and will give you some insight on how to do stuf
 
 ## 👮 Permissions and rights
 
-<!-- TODO: Make sure to adjust links to those documents -->
-
 You can find **all permissions, rights and dont-do things in [contributing guidelines](https://github.com/konradsopala/oss-org-getting-started/blob/master/CONTRIBUTION.md)** as well as in our **[code of conduct](https://github.com/konradsopala/oss-org-getting-started/blob/master/CODE_OF_CONDUCT.md).**
 
-We strongly believe that those two documents will evolve over time so as to fulfil our community needs even better as our community grows and gets more experienced and mature. We want to keep all our efforts transparent, that's why we're always open for your feedback! You can submit it either with an issue or simply by contacting us at <INSERT_YOUR_OSS_ORG_EMAIL>.
+We strongly believe that those two documents will evolve over time so as to fulfil our community needs even better as our community grows and gets more experienced and mature. We want to keep all our efforts transparent, that's why we're always open for your feedback! You can submit it either via  GitHub issue or simply by contacting us at <INSERT_YOUR_OSS_ORG_EMAIL>.
 
 ## 📠 Syncing and communicating
 
@@ -59,8 +56,6 @@ We'd really love to have our collaboration flourish on all grounds and we think 
 As everyone is time-constraint and we do sometimes have limited bandwidth we want everyone to make their contribution toward discussing, reviewing and solving/merging issues and PRs! We're all in this together! 🤜🏼🤛🏻
 
 ## 🧾 License
-
-<!-- TODO: Make sure to adjust link to the LICENSE -->
 
 This repo is [MIT licensed.](https://github.com/konradsopala/oss-org-getting-started/blob/master/LICENSE)
 
